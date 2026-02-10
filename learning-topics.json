@@ -1,0 +1,303 @@
+{
+  "primary": [
+    {
+      "id": "js-functions",
+      "name": "JS 函数基础",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "函数声明、箭头函数、参数、返回值",
+      "priority": 3,
+      "status": "completed",
+      "completedDate": "2026-02-03"
+    },
+    {
+      "id": "js-array-methods",
+      "name": "JS 数组常用方法",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "map、filter、reduce、forEach、find 等常用数组方法",
+      "priority": 4,
+      "status": "in-progress"
+    },
+    {
+      "id": "js-objects",
+      "name": "JS 对象操作",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "对象属性访问、解构、展开运算符",
+      "priority": 5,
+      "status": "in-progress"
+    },
+    {
+      "id": "js-async-basics",
+      "name": "JS 异步编程基础",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "Promise、async/await 的基本用法",
+      "priority": 6,
+      "status": "in-progress"
+    },
+    {
+      "id": "js-dom",
+      "name": "JS DOM 操作",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "选择元素、修改样式、事件监听",
+      "priority": 7,
+      "status": "in-progress"
+    },
+    {
+      "id": "vue-template",
+      "name": "Vue 模板语法",
+      "category": "Vue 基础",
+      "difficulty": "beginner",
+      "description": "插值、指令、表达式的基本用法",
+      "priority": 8,
+      "status": "in-progress",
+      "startDate": "2026-02-09"
+    },
+    {
+      "id": "vue-directives",
+      "name": "Vue 常用指令",
+      "category": "Vue 基础",
+      "difficulty": "beginner",
+      "description": "v-if、v-for、v-bind、v-on 的使用",
+      "priority": 9,
+      "status": "in-progress",
+      "startDate": "2026-02-10"
+    },
+    {
+      "id": "vue-component-basics",
+      "name": "Vue 组件基础",
+      "category": "Vue 基础",
+      "difficulty": "beginner",
+      "description": "组件定义、使用、数据传递",
+      "priority": 10,
+      "status": "pending"
+    },
+    {
+      "id": "vue-props-emit",
+      "name": "Vue 组件通信（props/emit）",
+      "category": "Vue 基础",
+      "difficulty": "beginner",
+      "description": "父传子、子传父的基本方式",
+      "priority": 11,
+      "status": "pending"
+    },
+    {
+      "id": "nodejs-modules",
+      "name": "Node.js 模块系统",
+      "category": "Node.js 基础",
+      "difficulty": "beginner",
+      "description": "require 和 export/import 的使用",
+      "priority": 12,
+      "status": "pending"
+    },
+    {
+      "id": "nodejs-fs",
+      "name": "Node.js 文件系统操作",
+      "category": "Node.js 基础",
+      "difficulty": "beginner",
+      "description": "读取、写入、删除文件的基本操作",
+      "priority": 13,
+      "status": "pending"
+    },
+    {
+      "id": "nodejs-http",
+      "name": "Node.js HTTP 服务器",
+      "category": "Node.js 基础",
+      "difficulty": "beginner",
+      "description": "创建简单的 HTTP 服务器和 API",
+      "priority": 14,
+      "status": "pending"
+    },
+    {
+      "id": "sql-crud",
+      "name": "SQL CRUD 操作",
+      "category": "SQL 基础",
+      "difficulty": "beginner",
+      "description": "INSERT、SELECT、UPDATE、DELETE 的基本语法",
+      "priority": 15,
+      "status": "pending"
+    },
+    {
+      "id": "sql-where",
+      "name": "SQL WHERE 和条件查询",
+      "category": "SQL 基础",
+      "difficulty": "beginner",
+      "description": "WHERE 子句、比较运算符、逻辑运算符",
+      "priority": 16,
+      "status": "pending"
+    },
+    {
+      "id": "sql-table-design",
+      "name": "SQL 表设计基础",
+      "category": "SQL 基础",
+      "difficulty": "beginner",
+      "description": "表结构设计、数据类型选择、主键外键",
+      "priority": 17,
+      "status": "pending"
+    },
+    {
+      "id": "sql-basic-joins",
+      "name": "SQL 基础 JOIN",
+      "category": "SQL 基础",
+      "difficulty": "beginner",
+      "description": "INNER JOIN 和 LEFT JOIN 的基本用法",
+      "priority": 18,
+      "status": "pending"
+    },
+    {
+      "id": "git-basics",
+      "name": "Git 基础命令",
+      "category": "工具",
+      "difficulty": "beginner",
+      "description": "init、add、commit、push、pull、branch",
+      "priority": 19,
+      "status": "pending"
+    },
+    {
+      "id": "npm-package-manager",
+      "name": "npm 包管理",
+      "category": "工具",
+      "difficulty": "beginner",
+      "description": "install、uninstall、scripts、package.json",
+      "priority": 20,
+      "status": "pending"
+    },
+    {
+      "id": "js-variables",
+      "name": "JS 变量声明（let/const/var）",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "let、const、var 的区别和最佳实践",
+      "priority": 1,
+      "status": "completed",
+      "completedDate": "2026-02-01"
+    },
+    {
+      "id": "js-data-types",
+      "name": "JS 数据类型",
+      "category": "JS 基础",
+      "difficulty": "beginner",
+      "description": "基本类型（string, number, boolean, null, undefined）和引用类型（object, array）",
+      "priority": 2,
+      "status": "completed",
+      "completedDate": "2026-02-02"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "js-es6-features",
+      "name": "ES6+ 新特性",
+      "category": "JS 进阶",
+      "difficulty": "medium",
+      "description": "模板字符串、解构、展开、默认参数等"
+    },
+    {
+      "id": "js-closures",
+      "name": "JS 闭包",
+      "category": "JS 进阶",
+      "difficulty": "medium",
+      "description": "理解闭包的概念和应用场景"
+    },
+    {
+      "id": "js-this-keyword",
+      "name": "JS this 关键字",
+      "category": "JS 进阶",
+      "difficulty": "medium",
+      "description": "this 在不同场景下的指向"
+    },
+    {
+      "id": "js-error-handling",
+      "name": "JS 错误处理",
+      "category": "JS 进阶",
+      "difficulty": "beginner",
+      "description": "try-catch、throw、自定义错误"
+    },
+    {
+      "id": "js-debugging",
+      "name": "JS 调试技巧",
+      "category": "JS 进阶",
+      "difficulty": "beginner",
+      "description": "console、debugger、浏览器 DevTools"
+    },
+    {
+      "id": "vue-lifecycle",
+      "name": "Vue 生命周期",
+      "category": "Vue 进阶",
+      "difficulty": "beginner",
+      "description": "onMounted、onUpdated、onUnmounted 等生命周期钩子"
+    },
+    {
+      "id": "vue-computed-watch",
+      "name": "Vue computed 和 watch",
+      "category": "Vue 进阶",
+      "difficulty": "beginner",
+      "description": "计算属性和监听器的区别和使用"
+    },
+    {
+      "id": "vue-v-model",
+      "name": "Vue v-model 双向绑定",
+      "category": "Vue 进阶",
+      "difficulty": "beginner",
+      "description": "表单绑定、自定义 v-model"
+    },
+    {
+      "id": "nodejs-npm-scripts",
+      "name": "Node.js npm scripts",
+      "category": "Node.js 进阶",
+      "difficulty": "beginner",
+      "description": "自定义脚本、环境变量、脚本钩子"
+    },
+    {
+      "id": "nodejs-express-basics",
+      "name": "Express.js 基础",
+      "category": "Node.js 进阶",
+      "difficulty": "beginner",
+      "description": "路由、中间件、静态文件服务"
+    },
+    {
+      "id": "sql-indexes-basic",
+      "name": "SQL 索引入门",
+      "category": "SQL 进阶",
+      "difficulty": "beginner",
+      "description": "什么时候需要索引、如何创建索引"
+    },
+    {
+      "id": "sql-group-by",
+      "name": "SQL GROUP BY 和聚合",
+      "category": "SQL 进阶",
+      "difficulty": "beginner",
+      "description": "COUNT、SUM、AVG、GROUP BY 的使用"
+    },
+    {
+      "id": "vscode-tips",
+      "name": "VS Code 高效技巧",
+      "category": "工具",
+      "difficulty": "beginner",
+      "description": "快捷键、插件、代码片段、多光标"
+    },
+    {
+      "id": "browser-devtools",
+      "name": "浏览器开发者工具",
+      "category": "工具",
+      "difficulty": "beginner",
+      "description": "Elements、Console、Network 面板的使用"
+    },
+    {
+      "id": "http-basics",
+      "name": "HTTP 协议基础",
+      "category": "网络",
+      "difficulty": "beginner",
+      "description": "请求方法、状态码、请求头响应头"
+    },
+    {
+      "id": "json-basics",
+      "name": "JSON 数据格式",
+      "category": "数据",
+      "difficulty": "beginner",
+      "description": "JSON 语法、解析、序列化"
+    }
+  ]
+}
